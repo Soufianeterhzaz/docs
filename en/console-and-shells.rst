@@ -809,7 +809,7 @@ For sending emails, you should provide CakeEmail class with the host you want to
     $Email = new CakeEmail();
     $Email->domain('www.example.org');
 
-This asserts that the generated message IDs are valid and fit to the domain the email is sent from.
+This asserts that the generated message IDs are valid and fit to the domain the emails are sent from.
 
 Shell API
 =========
